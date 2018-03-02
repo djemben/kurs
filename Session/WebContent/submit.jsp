@@ -11,6 +11,6 @@
 session.setAttribute("SessionName",request.getParameter("name"));
 %>
 
-<a href="info.jsp">Check details</a>
+<a href="<%= response.encodeUrl(request.getContextPath()) %>/info.jsp">Check details</a>
 </body>
 </html>

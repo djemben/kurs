@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-dupa trupa
+<%
+String name = (String)session.getAttribute("SessionName");
+%>
+
+<%= "Hello " + name  %>
 </body>
 </html>
