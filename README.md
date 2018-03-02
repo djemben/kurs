@@ -1,1 +1,2 @@
 # kurs
+#dupa nie kurs
