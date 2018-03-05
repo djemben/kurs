@@ -1,2 +1,2 @@
-# kurs
+# Nothing interesting... For now.
 
